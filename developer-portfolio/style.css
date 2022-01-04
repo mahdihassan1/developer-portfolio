@@ -9,7 +9,7 @@ h1{
     color: orange;
     /* font-size: 0px; */
 }
-section{
+.fexibal-continar{
     display: flex;
     margin-bottom:0px;
 }
@@ -17,6 +17,7 @@ section{
     margin-right: 50px;
     width: 60%;
     padding: 5%;
+   
 }
 .half-width img{
     width: 80%;
@@ -39,4 +40,19 @@ section{
     background-repeat:no-repeat;
     background-position: right;
    
+}
+.exfperincr-item{
+    width: 40%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 20px;
+    border-radius: 10px;
+    /* padding-bottom: 10px; */
+    margin-bottom: 40px;
+    box-shadow: 10px 10px 40px gray;
+}
+.experince-area{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
